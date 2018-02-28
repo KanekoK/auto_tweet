@@ -1,10 +1,11 @@
 INSERT INTO twitter_lists VALUES(
     1,
     datetime('now', 'localtime'),
-    215553803,
-    "yuzooho",
-    "yuzuho",
-    "94 Web Engineer at DMM Web Designもたまにしたり。文系からの休学からのIT企業のエンジニア。",
-    "トウキョウ",
+    947830451430768640,
+    "kanekenl",
+    "かねけん",
+    "#### 株式会社あつまる #### CTO\nPHP,JavaScript 絶賛Pythonかじり中",
+    "東京",
+    0,
     "mutual"
 );

@@ -6,6 +6,7 @@ CREATE TABLE twitter_lists (
     user_name VARCHAR(64),
     profile TEXT,
     location VARCHAR(64),
+    protected INTEGER,
     status VARCHAR(64)
 );
 
